@@ -1,0 +1,2 @@
+# datorium
+Pirmais github
